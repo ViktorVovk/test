@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "72KNRG9M7H.com.jobcastapp.jobcast",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
